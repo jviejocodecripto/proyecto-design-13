@@ -1,5 +1,5 @@
 
-import { Logo } from './logo'
+import { Logo } from '.Logo'
 
 import datos from '../datos.json'
 
