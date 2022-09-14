@@ -1,0 +1,119 @@
+{
+    "header": {
+        "nombre": "My-Company",
+        "links": [
+            {
+                "texto": "blog",
+                "url": "http://blog.com"
+            },
+            {
+                "texto": "youtube",
+                "url": "http://youtube.com"
+            }
+        ]
+    },
+    "precios": [
+        {
+            "titulo": "free",
+            "precio": "$0",
+            "por": "month",
+            "textBoton": "Sign up for free",
+            "features": [
+                "10 users included",
+                "2GB ",
+                "Email ",
+                "Help Center cripto"
+            ]
+        },
+        {
+            "titulo": "pro",
+            "precio": "$0",
+            "por": "month",
+            "textBoton": "Sign up for free",
+            "features": [
+                "10 users included",
+                "2GB ",
+                "Email ",
+                "Help Center cripto"
+            ]
+        },
+        {
+            "titulo": "enterprise",
+            "precio": "$0",
+            "por": "month",
+            "textBoton": "Sign up for free",
+            "features": [
+                "10 users included",
+                "2GB ",
+                "Email ",
+                "Help Center cripto"
+            ]
+        }
+    ],
+    "carrusel": [
+        {
+            "texto": "New service on the world",
+            "url": "/imagen1.jpg",
+            "alt": "New service on the world"
+        },
+        {
+            "texto": "nuevo texto",
+            "url": "/imagen1.jpg",
+            "alt": "New service on the world"
+        },
+        {
+            "texto": "We offer six month free",
+            "url": "/imagen2.jpg",
+            "alt": "texto alternativo imagen"
+        },
+        {
+            "texto": "New features",
+            "url": "/imagen3.jpg",
+            "alt": "texto alternativo imagen"
+        }
+    ],
+    "footer": [
+        {
+            "titulo": "Social",
+            "links": [
+                {
+                    "titulo": "youtube",
+                    "url": "http://..."
+                },
+                {
+                    "titulo": "Twitter",
+                    "url": "http://"
+                },
+                {
+                    "titulo": "Instagram",
+                    "url": "http://"
+                },
+                {
+                    "titulo": "Facebook",
+                    "url": "http://"
+                }
+            ]
+        },
+        {
+            "titulo": "Help",
+            "links": [
+                {
+                    "titulo": "Contact",
+                    "url": "http://"
+                },
+                {
+                    "titulo": "Email",
+                    "url": "http://"
+                },
+                {
+                    "titulo": "Privacy",
+                    "url": "http://"
+                },
+                {
+                    "titulo": "Term and conditions",
+                    "url": "http://"
+                }
+            ]
+        }
+    ]
+}
